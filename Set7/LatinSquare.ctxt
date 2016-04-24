@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=mat
+comment1.target=boolean\ isLatin(int[][])
+comment2.params=mat\ row
+comment2.target=void\ duplicateFinder(int[][],\ int)
+comment3.params=mat\ val\ row\ col
+comment3.target=boolean\ isValueWithinN(int[][],\ int,\ int,\ int)
+comment4.params=mat
+comment4.target=boolean\ isSquare(int[][])
+comment5.params=p
+comment5.target=void\ presentSet(boolean[])
+comment6.params=
+comment6.target=int[][]\ initMatrix()
+comment7.params=matrix\ in
+comment7.target=void\ parseData(int[][],\ java.util.Scanner)
+comment8.params=matrix
+comment8.target=void\ printData(int[][])
+numComments=9
